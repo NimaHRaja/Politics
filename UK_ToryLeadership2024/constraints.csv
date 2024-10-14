@@ -1,0 +1,7 @@
+prob/case,CBJ,BCJ,CJB,JCB,BJC,JBC
+elim_C,0,0,0,0,1,1
+elim_B,0,0,1,1,0,0
+elim_J,1,1,0,0,0,0
+win_C,1,0,1,0,0,0
+win_B,0,1,0,0,1,0
+win_J,0,0,0,1,0,1
